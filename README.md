@@ -2,6 +2,8 @@
 
 ## Bienvenido! 👋
 
+- Aqui puedes ver el resultado final -> [https://anell-dev.github.io/Reto-2-de-FrontendMentor/](https://anell-dev.github.io/Reto-2-de-FrontendMentor/)
+
 ### El reto
 
 Su desafío es construir este componente de código QR y lograr que se parezca lo más posible al diseño.
@@ -16,8 +18,8 @@ Ademas los usuarios deben ser capaces de:
 
 ### Links
 
-- Solucion URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solucion URL: [https://github.com/Anell-dev/Reto-2-de-FrontendMentor](https://github.com/Anell-dev/Reto-2-de-FrontendMentor)
+- Live Site URL: [https://anell-dev.github.io/Reto-2-de-FrontendMentor/](https://anell-dev.github.io/Reto-2-de-FrontendMentor/)
 
 ### Construido con
 
@@ -27,4 +29,6 @@ Ademas los usuarios deben ser capaces de:
 
 ## Autor
 
-- Frontend Mentor - [@Anell-dev](https://www.frontendmentor.io/profile/yourusername)
+- Perfil en Instagram - [@anel.dev](https://www.instagram.com/anel.dev/)
+- Perfil en GitHub - [@Anell-dev](https://github.com/Anell-dev)
+- Perfil en FrontendMentor - [@Anell-dev](https://www.frontendmentor.io/profile/Anell-dev)

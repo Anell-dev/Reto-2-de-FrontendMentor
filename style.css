@@ -5,13 +5,15 @@
 }
 
 body {
-  background-color: hsl(217, 28%, 76%);
+  background-color: hsl(215deg 46% 89%);
   font-family: "Outfit", sans-serif;
   height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  max-width: 1441px;
+  margin: auto;
   gap: 40px;
 }
 
@@ -40,15 +42,18 @@ body {
   color: hsl(0, 0%, 45%);
 }
 
+.text-container h1 {
+  font-size: 20px;
+}
+
 .image {
   width: 260px;
-  height: 250px;
+  height: 280px;
   border-radius: 10px;
 }
 
 .attribution {
   text-align: center;
-  /* font-weight: 500; */
   font-size: 17px;
 }
 

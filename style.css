@@ -12,8 +12,6 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  max-width: 1441px;
-  margin: auto;
   gap: 40px;
 }
 

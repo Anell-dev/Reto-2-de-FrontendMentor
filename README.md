@@ -2,7 +2,7 @@
 
 ## Bienvenido! 👋
 
-- Aqui puedes ver el resultado final -> [https://anell-dev.github.io/Reto-2-de-FrontendMentor/](https://anell-dev.github.io/Reto-2-de-FrontendMentor/)
+- Aqui puedes ver el resultado final -> [https://anell-dev.github.io/Tarjeta-para-codigo-QR/](https://anell-dev.github.io/Tarjeta-para-codigo-QR/)
 
 ### El reto
 
@@ -14,12 +14,12 @@ Ademas los usuarios deben ser capaces de:
 
 ### Captura de pantalla
 
-![](./images/reto%202%20-%20resultado%20final.png)
+![](./screenshots/reto%202%20-%20resultado%20final.png)
 
 ### Links
 
-- Solucion URL: [https://github.com/Anell-dev/Reto-2-de-FrontendMentor](https://github.com/Anell-dev/Reto-2-de-FrontendMentor)
-- Live Site URL: [https://anell-dev.github.io/Reto-2-de-FrontendMentor/](https://anell-dev.github.io/Reto-2-de-FrontendMentor/)
+- Solucion URL: [https://github.com/Anell-dev/Tarjeta-para-codigo-QR](https://github.com/Anell-dev/Tarjeta-para-codigo-QR)
+- Live Site URL: [https://anell-dev.github.io/Tarjeta-para-codigo-QR/](https://anell-dev.github.io/Tarjeta-para-codigo-QR/)
 
 ### Construido con
 
